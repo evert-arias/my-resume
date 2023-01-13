@@ -4,11 +4,11 @@
   "description": "My resume",
   "scripts": {
     "serve": "resume serve --theme autumn",
-    "build": "resume export build/index.html --format html --theme autumn",
+    "build": "resume export ./out/index.html --format html --theme autumn",
     "export:html": "resume export resume.html --format html --theme autumn",
     "export:pdf": "resume export resume.pdf --format pdf --theme autumn",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d out"
   },
   "repository": {
     "type": "git",
