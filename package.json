@@ -4,8 +4,11 @@
   "description": "My resume",
   "scripts": {
     "serve": "resume serve --theme autumn",
+    "build": "resume export build/index.html --format html --theme autumn",
     "export:html": "resume export resume.html --format html --theme autumn",
-    "export:pdf": "resume export resume.pdf --format pdf --theme autumn"
+    "export:pdf": "resume export resume.pdf --format pdf --theme autumn",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -16,9 +19,11 @@
   "bugs": {
     "url": "https://github.com/evert-arias/my-resume/issues"
   },
-  "homepage": "https://github.com/evert-arias/my-resume#readme",
-  "dependencies": {
+  "homepage": "http://evert-arias.github.io/my-resume",
+  "dependencies": {},
+  "devDependencies": {
     "jsonresume-theme-autumn": "^1.0.1",
-    "resume-cli": "^3.0.8"
+    "resume-cli": "^3.0.8",
+    "gh-pages": "^4.0.0"
   }
 }
