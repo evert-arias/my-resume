@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "My resume",
   "scripts": {
-    "serve": "resume serve --theme autumn",
-    "build": "resume export ./out/index.html --format html --theme autumn",
-    "export:html": "resume export resume.html --format html --theme autumn",
-    "export:pdf": "resume export resume.pdf --format pdf --theme autumn",
+    "prebuild": "bash ./prebuild.sh",
+    "build": "npm run prebuild && resume export dist/index.html --format html --theme autumn",
+    "serve": "npm run prebuild && resume serve --theme autumn --dir dist",
+    "export:pdf": "resume export dist/resume.pdf --format pdf --theme autumn",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d out"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
