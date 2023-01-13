@@ -1,0 +1,24 @@
+{
+  "name": "my-resume",
+  "version": "1.0.0",
+  "description": "My resume",
+  "scripts": {
+    "serve": "resume serve --theme autumn",
+    "export:html": "resume export resume.html --format html --theme autumn",
+    "export:pdf": "resume export resume.pdf --format pdf --theme autumn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evert-arias/my-resume.git"
+  },
+  "author": "Evert Arias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evert-arias/my-resume/issues"
+  },
+  "homepage": "https://github.com/evert-arias/my-resume#readme",
+  "dependencies": {
+    "jsonresume-theme-autumn": "^1.0.1",
+    "resume-cli": "^3.0.8"
+  }
+}

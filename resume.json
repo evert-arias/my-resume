@@ -1,0 +1,168 @@
+{
+  "basics": {
+    "name": "Evert Arias",
+    "label": "Fullstack Software Developer",
+    "email": "evert.arias@treve.dev",
+    "phone": "(813) 847-8233",
+    "url": "https://earias.me",
+    "summary": "Experienced Full Stack Developer with 7+ years in Back-end, Front-end development and proficient in various platforms, languages, and embedded systems. Skilled in utilizing cutting-edge tools and techniques, eager to master Microservices and Containerization. Passionate Open-Source Advocate, dedicated to contributing to the community. Adept at self-management and team collaboration.",
+    "location": {
+      "city": "Tampa",
+      "countryCode": "US",
+      "region": "Florida"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "evert-arias",
+        "url": "https://github.com/evert-arias"
+      },
+      {
+        "network": "Twitter",
+        "username": "evert-arias",
+        "url": "https://twitter.com/evert_arias"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "evert-arias",
+        "url": "https://www.linkedin.com/in/evert-arias/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Aegis Protective Services",
+      "position": "Fullstack Software Developer",
+      "startDate": "02-01-2022",
+      "endDate": "01-01-2023",
+      "summary": "As a Full Stack Developer at Aegis Protective Services, I was responsible for the development and maintenance of the company's web-based applications. Utilizing my expertise in JavaScript, VueJs, and Tailwindcss for the front-end development, and C# .NET and Entity Framework for the back-end development. I was able to deliver high-performing and scalable web applications that met the needs of the company and its clients. I was also able to take an active role in the full development life cycle, from understanding requirements, to design, development, testing, and deployment. I was able to work in an Agile environment and collaborated with cross-functional teams to deliver high-quality software.",
+      "highlights": [
+        "Utilized VueJs to create reusable and maintainable components that were integrated into the company's web applications.",
+        "Leveraged C# .NET and Entity Framework to build robust and efficient back-end systems that supported the web applications.",
+        "Collaborated with the design team to ensure that the web applications were visually appealing and user-friendly.",
+        "Worked closely with the QA team to ensure that the web applications were thoroughly tested and met all requirements before deployment.",
+        "Participated in code reviews and provided feedback to team members to improve the quality of the codebase.",
+        "Contributed to the improvement of the development process and the introduction of new technologies to the team.",
+        "Actively involved in the deployment process, ensuring that the web applications were deployed to production without any issues."
+      ]
+    },
+    {
+      "name": "IOBITS (Startup)",
+      "position": "Fullstack Software Developer",
+      "startDate": "06-01-2018",
+      "endDate": "01-01-2022",
+      "summary": "As a developer at IOTBITS, I was responsible for developing web applications, firmware for industrial grade devices, led the development of company's flagship device, created user interface for device setup, developed CLI tool, implemented web portal and microservices for firmware update, and led the development of software and hardware solutions for data collection on IoT platforms.",
+      "highlights": [
+        "Developed web applications using HTML, JavaScript, CSS, and ReactJS for the company's internal and external use.",
+        "Main developer for the development of firmware for industrial grade variable frequency drives using C++ on the Espressif platform.",
+        "Led the development of the company's flagship device, ModbusBox, including firmware development using C/C++, Arduino Platform, and PlatformIO.",
+        "Created embedded web UI for device initial setup and post-setup administration.",
+        "Developed a Node.js CLI tool for firmware building customization and uploading processes.",
+        "Created cross-platform Node.js application for device administration.",
+        "Implemented company's web portal and backend microservices for OTA firmware update.",
+        "Performed containerized microservices deployment using Docker and Traefik.",
+        "Led the development of software and hardware solutions to collect data from industrial devices and make it available on various IoT platforms in the cloud."
+      ]
+    },
+    {
+      "name": "Freelancer",
+      "position": "Fullstack Software Developer",
+      "startDate": "08-15-2013",
+      "endDate": "06-01-2018",
+      "summary": "As a freelance developer, I worked on a wide range of projects, from cross-platform applications with Node.js to complex microservices and tools for the command line. I also developed multiple personal open-source projects, some of which have thousands of users. My expertise in server-side technologies such as Node.js, Express.js, NestJS, MongoDB, MySQL, Twilio, and Mailgun, as well as client-side technologies such as JavaScript (ES6), HTML, CSS, Bootstrap, Vue.js, Buefy, and Vuetify, allowed me to deliver high-quality, innovative solutions to my clients. In addition to web development, I also have experience in developing desktop apps using Node.js and Electron, as well as mobile apps using Ionic Framework, Cordova, and Capacitor. This experience allowed me to create cross-platform solutions that could run on multiple devices and operating systems.",
+      "highlights": [
+        "Experienced in a wide range of projects, including cross-platform applications, microservices, and command line tools.",
+        "Developed multiple personal open-source projects with thousands of users.",
+        "Expertise in server-side technologies such as Node.js, Express.js, NestJS, MongoDB, MySQL, Twilio, and Mailgun.",
+        "Proficient in client-side technologies such as JavaScript (ES6), HTML, CSS, Bootstrap, Vue.js, Buefy, and Vuetify.",
+        "Experience in developing desktop apps using Node.js and Electron, and mobile apps using Ionic Framework, Cordova, and Capacitor.",
+        "Able to create cross-platform solutions that run on multiple devices and operating systems.",
+        "Worked with clients from various industries and helped them achieve their business goals through technology.",
+        "Gained valuable experience in project management and client communication.",
+        "Delivered projects on time and within budget."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Southwest Florida College",
+      "area": "Network Engineering and Administration",
+      "startDate": "2010",
+      "endDate": "2013"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Gatsby",
+        "Vue.js",
+        "Nuxt.js",
+        "Tailwind CSS",
+        "SASS",
+        "LESS",
+        "RESTful API",
+        "GraphQL"
+      ]
+    },
+    {
+      "name": "Server Side",
+      "level": "Master",
+      "keywords": ["Node.js", "Express.js", "Nest.js"]
+    },
+    {
+      "name": "Mobile Development",
+      "level": "Master",
+      "keywords": ["Android", "Ionic Framework", "Cordova", "Capacitor"]
+    },
+    {
+      "name": "Cloud hosting",
+      "level": "Master",
+      "keywords": ["AWS", "Azure", "Google Cloud"]
+    },
+    {
+      "name": "Cross-platform Development",
+      "level": "Master",
+      "keywords": ["Electron", "Ionic Framework"]
+    },
+    {
+      "name": "Database",
+      "level": "Master",
+      "keywords": ["MySQL", "MongoDB"]
+    },
+    {
+      "name": "Embedded Development",
+      "level": "Master",
+      "keywords": ["C++", "Arduino", "Espressif"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    }
+  ],
+  "projects": [
+    {
+      "name": "EasyButton - Arduino Library",
+      "description": "As an open source advocate and motivated to contribute to the open source community, I have created EasyButton, an Arduino library for debouncing and reading momentary contactswitches like tactile buttons",
+      "highlights": ["Has more than three hundred starts on Github"],
+      "keywords": ["Arduino", "Library"],
+      "startDate": "2019",
+      "url": "https://easybtn.earias.me/",
+      "roles": ["Developer"],
+      "type": "Arduino Library"
+    }
+  ]
+}
