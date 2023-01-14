@@ -150,17 +150,5 @@
       "language": "Spanish",
       "fluency": "Native speaker"
     }
-  ],
-  "projects": [
-    {
-      "name": "EasyButton - Arduino Library",
-      "description": "As an open source advocate and motivated to contribute to the open source community, I have created EasyButton, an Arduino library for debouncing and reading momentary contactswitches like tactile buttons",
-      "highlights": ["Has more than three hundred starts on Github"],
-      "keywords": ["Arduino", "Library"],
-      "startDate": "2019",
-      "url": "https://easybtn.earias.me/",
-      "roles": ["Developer"],
-      "type": "Arduino Library"
-    }
   ]
 }
