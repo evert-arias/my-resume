@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Evert Arias",
-    "label": "Fullstack Software Developer",
+    "label": "Full-Stack Developer",
     "email": "evert.arias@treve.dev",
     "url": "https://earias.me",
-    "summary": "Experienced Full Stack Developer with 7+ years in Back-end, Front-end development and proficient in various platforms, languages, and embedded systems. Skilled in utilizing cutting-edge tools and techniques, eager to master Microservices and Containerization. Passionate Open-Source Advocate, dedicated to contributing to the community.",
+    "summary": "Experienced Full-Stack Developer with 7+ years in Back-end, Front-end development and proficient in various platforms, languages, and embedded systems. Skilled in utilizing cutting-edge tools and techniques, eager to master Microservices and Containerization. Passionate Open-Source Advocate, dedicated to contributing to the community.",
     "location": {
       "city": "Tampa",
       "countryCode": "US",
@@ -31,10 +31,10 @@
   "work": [
     {
       "name": "Aegis Protective Services",
-      "position": "Fullstack Software Developer",
+      "position": "Full-Stack Developer",
       "startDate": "02-01-2022",
       "endDate": "01-01-2023",
-      "summary": "As a Full Stack Developer at Aegis Protective Services, I was responsible for the development and maintenance of the company's web-based applications. Utilizing my expertise in JavaScript, VueJs, and Tailwindcss for the front-end development, and C# .NET and Entity Framework for the back-end development. I was able to deliver high-performing and scalable web applications that met the needs of the company and its clients. I was also able to take an active role in the full development life cycle, from understanding requirements, to design, development, testing, and deployment. I was able to work in an Agile environment and collaborated with cross-functional teams to deliver high-quality software.",
+      "summary": "As a Full-Stack Developer at Aegis Protective Services, I was responsible for the development and maintenance of the company's web-based applications. Utilizing my expertise in JavaScript, VueJs, and Tailwindcss for the front-end development, and C# .NET and Entity Framework for the back-end development. I was able to deliver high-performing and scalable web applications that met the needs of the company. I was also able to take an active role in the full development life cycle, from understanding requirements, to design, development, testing, and deployment. I was able to work in an Agile environment and collaborated with cross-functional teams to deliver high-quality software.",
       "highlights": [
         "Utilized VueJs to create reusable and maintainable components that were integrated into the company's web applications.",
         "Leveraged C# .NET and Entity Framework to build robust and efficient back-end systems that supported the web applications.",
@@ -46,10 +46,10 @@
     },
     {
       "name": "IOBITS (Startup)",
-      "position": "Fullstack Software Developer",
+      "position": "Full-Stack Developer",
       "startDate": "06-01-2018",
       "endDate": "01-01-2022",
-      "summary": "As a developer at IOTBITS, I was responsible for developing web applications, firmware for industrial grade devices, led the development of company's flagship device, created user interface for device setup, developed CLI tool, implemented web portal and microservices for firmware update, and led the development of software and hardware solutions for data collection on IoT platforms.",
+      "summary": "At IOTBITS, I was responsible for developing web applications, firmware for industrial grade devices, led the development of company's flagship device, created user interface for device setup, developed CLI tool, implemented web portal and microservices for firmware update, and led the development of software and hardware solutions for data collection on IoT platforms.",
       "highlights": [
         "Developed web applications using HTML, JavaScript, CSS, and ReactJS for the company's internal and external use.",
         "Main developer for the development of firmware for industrial grade variable frequency drives using C++ on the Espressif platform.",
@@ -64,7 +64,7 @@
     },
     {
       "name": "Freelancer",
-      "position": "Fullstack Software Developer",
+      "position": "Full-Stack Developer",
       "startDate": "08-15-2013",
       "endDate": "06-01-2018",
       "summary": "As a freelance developer, I worked on a wide range of projects, from cross-platform applications with Node.js to complex microservices and tools for the command line. I also developed multiple personal open-source projects, some of which have thousands of users. My expertise in server-side technologies such as Node.js, Express.js, NestJS, MongoDB, MySQL, Twilio, and Mailgun, as well as client-side technologies such as JavaScript (ES6), HTML, CSS, Bootstrap, Vue.js, Buefy, and Vuetify, allowed me to deliver high-quality, innovative solutions to my clients. In addition to web development, I also have experience in developing desktop apps using Node.js and Electron, as well as mobile apps using Ionic Framework, Cordova, and Capacitor. This experience allowed me to create cross-platform solutions that could run on multiple devices and operating systems.",
@@ -100,7 +100,6 @@
         "TypeScript",
         "React",
         "Next.js",
-        "Gatsby",
         "Vue.js",
         "Nuxt.js",
         "Tailwind CSS",
@@ -139,6 +138,11 @@
       "name": "Embedded Development",
       "level": "Master",
       "keywords": ["C++", "Arduino", "Espressif"]
+    },
+    {
+      "name": "Additional Skills",
+      "level": "Master",
+      "keywords": ["Git", "Twilio", "Mailgun", "Stripe"]
     }
   ],
   "languages": [
