@@ -6,7 +6,7 @@
     "prebuild": "bash ./prebuild.sh",
     "build": "npm run prebuild && resume export dist/index.html --format html --theme autumn",
     "serve": "npm run prebuild && resume serve --theme autumn --dir dist",
-    "export:pdf": "resume export dist/resume.pdf --format pdf --theme autumn",
+    "export:pdf": "resume export \"dist/Evert Arias.pdf\" --format pdf --theme autumn",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
